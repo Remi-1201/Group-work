@@ -1,0 +1,35 @@
+  .contact tr{
+    height: 7rem;
+  }
+  .contact th{
+    width: 150px;
+    text-align: right;
+    padding-right: 10px;
+  }
+  .contact .text{
+    width: 480px;
+  }
+  .contact .yubin{
+    width: 100px;
+  }
+  .submit input:hover{
+    opacity: 0.5;
+  }
+  .submit input{
+    color:white;
+    background-color: #dda02d;
+    padding: 10px 20px;  
+    text-align: center; 
+    font-size: 2rem;
+  }
+  .submit{
+    text-align: center;
+  }
+  .footer{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    background-color: #999999;
+    display: table;
+  }
